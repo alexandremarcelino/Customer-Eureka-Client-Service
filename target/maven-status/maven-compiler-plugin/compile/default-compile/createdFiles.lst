@@ -1,0 +1,7 @@
+com\alexandre\marcelino\customer\exception\ErrorDetails.class
+com\alexandre\marcelino\customer\CustomerApplication.class
+com\alexandre\marcelino\customer\exception\GlobalExceptionHandler.class
+com\alexandre\marcelino\customer\exception\ResourceNotFoundException.class
+com\alexandre\marcelino\customer\repository\CustomerRepository.class
+com\alexandre\marcelino\customer\controller\CustomerController.class
+com\alexandre\marcelino\customer\model\Customer.class
