@@ -12,7 +12,7 @@
 	<artifactId>Customer-Eureka-Client-Service-master</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Customer-Eureka-Client-Service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Customer-Eureka-Client-Service-master</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-boot-admin.version>2.7.4</spring-boot-admin.version>
